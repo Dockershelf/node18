@@ -1,4 +1,4 @@
-Source: nodejs18
+Source: nodejs-18
 Section: web
 Priority: optional
 Maintainer: Luis Alejandro Martínez Faneyth <luis@luisalejandro.org>
@@ -14,7 +14,7 @@ Homepage: https://nodejs.org
 Vcs-Browser: https://github.com/Dockershelf/node18
 Vcs-Git: https://github.com/Dockershelf/node18.git
 
-Package: nodejs18
+Package: nodejs-18
 Architecture: any
 Multi-Arch: allowed
 Depends: ${shlibs:Depends},
